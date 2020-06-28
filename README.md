@@ -6,6 +6,8 @@
 
 [Largest Subarray Length K](https://leetcode.com/discuss/interview-question/352459/)
 
+[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 [Maximum Number of Strawberry](https://leetcode.com/discuss/interview-question/396646/)
 
 [Maximum Time](https://leetcode.com/discuss/interview-question/396769/)
