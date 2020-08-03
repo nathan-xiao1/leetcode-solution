@@ -1,4 +1,5 @@
 # Link to Questions
+[Add Binary](https://leetcode.com/problems/add-binary/)
 
 [Compare Strings](https://leetcode.com/discuss/interview-question/352458/)
 
